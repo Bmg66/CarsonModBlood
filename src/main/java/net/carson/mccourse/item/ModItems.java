@@ -10,7 +10,7 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
     public static final Item BLOOD_INGOT = registerItem("blood_ingot",
-    new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    new Item(new FabricItemSettings().group(ModItemGroups.COURSE)));
 
 
     private static Item registerItem(String name, Item item) {
