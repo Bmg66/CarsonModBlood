@@ -1,0 +1,7 @@
+{
+  "item.mccourse.blood_ingot" : "Blood Ingot",
+  "block.mccourse.blood_block" :"Blood Block",
+  "block.mccourse.blood_ore" :"Blood Ore",
+
+  "itemGroup.mccourse.course" : "Course Tab"
+}
