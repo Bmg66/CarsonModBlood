@@ -12,6 +12,10 @@ public class ModItems {
     public static final Item BLOOD_INGOT = registerItem("blood_ingot",
     new Item(new FabricItemSettings().group(ModItemGroups.COURSE)));
 
+    public static final Item RAW_BLOOD_ORE = registerItem("raw_blood_ore",
+            new Item(new FabricItemSettings().group(ModItemGroups.COURSE)));
+
+
 
     private static Item registerItem(String name, Item item) {
     return Registry.register(Registry.ITEM, new Identifier(MCCourseMod.MOD_ID, name), item );

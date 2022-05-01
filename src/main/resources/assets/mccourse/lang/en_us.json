@@ -1,7 +1,9 @@
 {
   "item.mccourse.blood_ingot" : "Blood Ingot",
+  "item.mccourse.raw_blood_ore" : "Raw Blood Ore",
   "block.mccourse.blood_block" :"Blood Block",
   "block.mccourse.blood_ore" :"Blood Ore",
-
-  "itemGroup.mccourse.course" : "Course Tab"
+  "block.mccourse.raw_blood_block" :"Raw Blood Block",
+  "block.mccourse.deepslate_blood_ore": "Deepslate Blood Ore",
+  "itemGroup.mccourse.course" : "Blood Mod"
 }

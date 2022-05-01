@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mccourse:blood_ore",
+    "mccourse:deepslate_blood_ore",
+    "mccourse:blood_block",
+    "mccourse:raw_blood_block"
+  ]
+}

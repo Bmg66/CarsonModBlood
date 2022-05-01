@@ -15,10 +15,17 @@ public class ModBlocks {
 
 
 
-    public static final  Block Blood_Block = registerBlock("blood_block",
+    public static final  Block BLOOD_BLOCK = registerBlock("blood_block",
     new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroups.COURSE);
 
-    public static final  Block Blood_Ore = registerBlock("blood_ore",
+    public static final  Block BLOOD_ORE = registerBlock("blood_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ModItemGroups.COURSE);
+
+
+    public static final  Block DEEPSLATE_BLOOD_ORE = registerBlock("deepslate_blood_ore",
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ModItemGroups.COURSE);
+
+    public static final  Block RAW_BLOOD_ORE = registerBlock("raw_blood_block",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), ModItemGroups.COURSE);
 
 
