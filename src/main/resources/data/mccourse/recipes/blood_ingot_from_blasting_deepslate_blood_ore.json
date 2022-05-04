@@ -1,7 +1,7 @@
 {
   "type" : "minecraft:blasting",
   "ingredient" : {
-    "item" : "mccourse:raw_blood_ore"
+    "item" : "mccourse:deepslate_blood_ore"
   },
   "result": "mccourse:blood_ingot",
   "experience" : 0.7,

@@ -1,9 +1,20 @@
 {
   "item.mccourse.blood_ingot" : "Blood Ingot",
+  "item.mccourse.dowsing_rod" : "Dowsing Rod",
   "item.mccourse.raw_blood_ore" : "Raw Blood Ore",
+  "item.mccourse.blood" : "Blood",
+  "item.mccourse.bloody_coal" : "Bloody Coal",
+
+
   "block.mccourse.blood_block" :"Blood Block",
   "block.mccourse.blood_ore" :"Blood Ore",
   "block.mccourse.raw_blood_block" :"Raw Blood Block",
   "block.mccourse.deepslate_blood_ore": "Deepslate Blood Ore",
-  "itemGroup.mccourse.course" : "Blood Mod"
+  "block.mccourse.speedy_block": "Speedy Block",
+
+
+  "itemGroup.mccourse.course" : "Blood Mod",
+
+
+  "item.mccourse.dowsing_rod.no_valuables": "No Valuables found!"
 }

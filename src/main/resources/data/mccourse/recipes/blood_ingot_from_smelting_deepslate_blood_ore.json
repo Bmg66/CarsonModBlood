@@ -1,0 +1,9 @@
+{
+  "type" : "minecraft:smelting",
+  "ingredient" : {
+    "item" : "mccourse:deepslate_blood_ore"
+  },
+  "result": "mccourse:blood_ingot",
+  "experience" : 0.7,
+  "cookingtime": 200
+}
